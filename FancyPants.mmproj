@@ -1,0 +1,16 @@
+<mm_project serial_port="COM1" board="FancyPants (ATmega328p / 16MHz)" programmer="AVRISP mkII" includePaths="" libPaths="" libs="" default="yes" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+  <files>
+    <file name="fancypants_main.h" open="no" />
+    <file name="FancyPants.cpp" open="yes" />
+    <file name="LPD8806.cpp" open="yes" />
+    <file name="TimerOne.cpp" open="yes" />
+    <file name="LPD8806.h" open="yes" />
+    <file name="pixels.h" open="yes" />
+    <file name="TimerOne.h" open="yes" />
+  </files>
+  <extras>
+  </extras>
+  <externals>
+    <external name="C:\Program Files (x86)\arduino\libraries\SPI\SPI.cpp" />
+  </externals>
+</mm_project>
